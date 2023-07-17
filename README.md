@@ -12,4 +12,8 @@ For this project, I am imitating a data scientist recently hired at a real estat
 8. Launch, monitor, and maintain your system.
 
 ## Tools used
-Pandas, NumPy, Scikit-learn, Seaborn, TensorFlow
+Pandas, NumPy, Scikit-learn, Seaborn, TensorFlow, Jupyter Notebook
+
+### Discover and visualize the data to gain insights
+Scatterplots, heat maps, scatter_matrix to plot every numerical attribute against every other numerical attribute, creating functions for data cleaning to account for missing data. Scikit-Learn's class SimpleImputer to take care of missing values. Scikit-Learn's OrdinalEncoder class to convert text to numbers. 
+ 
