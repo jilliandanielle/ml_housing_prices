@@ -17,3 +17,12 @@ Pandas, NumPy, Scikit-learn, Seaborn, TensorFlow, Jupyter Notebook
 ### Discover and visualize the data to gain insights
 Scatterplots, heat maps, scatter_matrix to plot every numerical attribute against every other numerical attribute, creating functions for data cleaning to account for missing data. Scikit-Learn's class SimpleImputer to take care of missing values. Scikit-Learn's OrdinalEncoder class to convert text to numbers. 
  
+ 
+ ### Training the model
+ Linear Regression Model from sklearn
+ 
+ DecisionTreeRegressor from sklearn
+ 
+ Cross-Validation - using the train_test_split function to split the training set into a smaller training set and validation set then train the models against the smaller training set and evaluate them against the validation set. 
+ 
+ RandomForestRegressor from sklearn - works by training many Decision Trees on random subsets of the features, then averaging out the predictions. 
